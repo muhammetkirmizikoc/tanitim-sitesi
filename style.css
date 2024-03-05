@@ -51,14 +51,12 @@ nav li a{
     background-color: rgb(252, 80, 18);
     color:#fff;
     border: 2px solid transparent;
+    cursor: pointer;
 }
 .btn-orange:hover{
     color: rgb(252, 80, 18);
     background-color: #fff;
     border: 2px solid rgb(252, 80, 18);
-}
-.deneme{
-    flex-wrap: wrap;
 }
 .deneme div{
     width: 310px;
